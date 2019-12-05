@@ -1,9 +1,9 @@
 future
-requests
+requests==2.21.0
 paramiko
 pysnmp==4.4.6
 pycryptodome
-pytest==3.6.0
+pytest==4.4.0
 pytest-forked
 pytest-xdist
 flake8
